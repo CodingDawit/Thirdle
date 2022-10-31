@@ -1,6 +1,6 @@
 # Thirdle
 
-📝 Thirdle is a simplified version of the popular word game, Wordle, built using HTML, CSS, and JavaScript.
+📝 Thirdle is a simplified version of the popular word game, Wordle, built using HTML, CSS, and JavaScript. Check it out [here(https://codingdawit.github.io/Thirdle/)]
 
 🛠 There will be a 3x3 grid in which the user's guess will be displayed.
 
